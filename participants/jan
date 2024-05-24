@@ -1,0 +1,23 @@
+// vim: ft=jsonc
+{
+	"realName": {
+		"givenName": "Jan",
+		"familyName": "Schmidle",
+	},
+	"githubAccountName": "bitcloud",
+	"company": "essentim GmbH",
+	"when": {
+		"friday": true,
+		"saturday": true
+	},
+	"iCanTakeNotesDuringSessions": false,
+	// your current interests (JS and in general) (required)
+	"tags": ["TypeScript", "NodeJS", "AWS", "Azure", "terraform", "k8s", "Security"],
+	"vegan": false,
+	"vegetarian": false,
+	"whatIsMyConnectionToJavascript": "My goto tool for glueing things together",
+	"whatCanIContribute": "Probably another talk about security or automation or whatever beeps or blinks ;-)",
+	"tShirtSize": "L",
+	"linkedin": "https://www.linkedin.com/in/jschmidle/",
+	"website": "https://www.essentim.com"
+}
