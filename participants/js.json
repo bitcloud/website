@@ -10,7 +10,7 @@
 		// June 12th, 2026
 		"friday": true,
 		// June 13th, 2026
-		"saturday": true
+		"saturday": false
 	},
 	"iCanTakeNotesDuringSessions": false,
 	// your current interests (JS and in general) (required)
